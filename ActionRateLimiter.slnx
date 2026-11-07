@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="arl-app/arl-app.csproj" />
+  <Project Path="arl-lib/arl-lib.csproj" />
+</Solution>
